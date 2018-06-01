@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'mydata'
+
+// mydata.register
+
+[{"id":"40","firstname":"shruti","lastname":"hir","studentid":"ua2695","email":"shruti@gmail.com","timeslot":"Monday 15:00-17:00"}, {"id":"49","firstname":"shruti","lastname":"patel","studentid":"223","email":"s@gmail.com","timeslot":"Thusday 11:00-13:00"}, {"id":"57","firstname":"shivani","lastname":"shah","studentid":"xa3456","email":"ss@gmail.com","timeslot":"Tuesday 14:00-16:00"}, {"id":"58","firstname":"vani","lastname":"patel","studentid":"ui1234","email":"vp@yahoo.com","timeslot":"Monday 15:00-17:00"}, {"id":"59","firstname":"uiui","lastname":"uiui","studentid":"ui6767","email":"S@gail.com","timeslot":"Monday 15:00-17:00"}, {"id":"60","firstname":"shru","lastname":"hir","studentid":"hu7878","email":"Ss@gmail.com","timeslot":"Tuesday 14:00-16:00"}, {"id":"63","firstname":"io","lastname":"io","studentid":"io","email":"io@gmail.com","timeslot":"Monday 15:00-17:00"}, {"id":"64","firstname":"hello","lastname":"jiji","studentid":"hu89787","email":"a@gmail.com","timeslot":"Thusday 11:00-13:00"}]
